@@ -1,10 +1,9 @@
-package com.route.islamic39.ui.home.hadeth
+package com.route.islami
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.route.islamic39.databinding.ItemHadethTitleBinding
-import com.route.islamic39.model.Hadeth
+import com.route.islami.databinding.ItemHadethTitleBinding
 
 class HadethRecyclerAdapter(private val hadethList: List<Hadeth>) :
     RecyclerView.Adapter<HadethRecyclerAdapter.ViewHolder>() { // ktlint-disable max-line-length

@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IslamiC39"
+rootProject.name = "Islami"
 include(":app")

@@ -1,9 +1,8 @@
-package com.route.islamic39.ui.suraDetails
+package com.route.islami
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.route.islamic39.databinding.ActivityChapterDetailsBinding
-import com.route.islamic39.ui.Constants
+import com.route.islami.databinding.ActivityChapterDetailsBinding
 
 class ChapterDetailsActivity : AppCompatActivity() {
     var chapterIndex: Int = 0

@@ -1,4 +1,4 @@
-package com.route.islamic39.ui.home.quran
+package com.route.islami
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,9 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.route.islamic39.databinding.FragmentQuranBinding
-import com.route.islamic39.ui.Constants
-import com.route.islamic39.ui.suraDetails.ChapterDetailsActivity
+import com.route.islami.databinding.FragmentQuranBinding
 
 class QuranFragment : Fragment() {
 

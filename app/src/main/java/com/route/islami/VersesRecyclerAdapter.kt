@@ -1,9 +1,9 @@
-package com.route.islamic39.ui.suraDetails
+package com.route.islami
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.route.islamic39.databinding.ItemVerseBinding
+import com.route.islami.databinding.ItemVerseBinding
 
 class VersesRecyclerAdapter(private val verses: List<String>) :
     RecyclerView.Adapter<VersesRecyclerAdapter.ViewHolder>() {

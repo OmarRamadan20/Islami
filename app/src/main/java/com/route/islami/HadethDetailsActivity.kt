@@ -1,11 +1,9 @@
-package com.route.islamic39.ui.hadethDetails
+package com.route.islami
 
 import android.os.Build
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.route.islamic39.databinding.ActivityHadethDetailsBinding
-import com.route.islamic39.model.Hadeth
-import com.route.islamic39.ui.Constants
+import com.route.islami.databinding.ActivityHadethDetailsBinding
 
 class HadethDetailsActivity : AppCompatActivity() {
     lateinit var viewBinding: ActivityHadethDetailsBinding

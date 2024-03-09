@@ -1,21 +1,21 @@
-package com.route.islamic39.ui.home.tasbeh
+package com.route.islami
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.route.islamic39.databinding.FragmentTasbehBinding
+import com.route.islami.databinding.FragmentRadioBinding
 
-class TasbehFragment : Fragment() {
+class RadioFragment : Fragment() {
 
-    lateinit var viewBinding: FragmentTasbehBinding
+    lateinit var viewBinding: FragmentRadioBinding
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        viewBinding = FragmentTasbehBinding.inflate(inflater, container, false)
+        viewBinding = FragmentRadioBinding.inflate(inflater, container, false)
         return viewBinding.root
     }
 }

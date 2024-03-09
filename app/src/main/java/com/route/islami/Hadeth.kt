@@ -1,4 +1,4 @@
-package com.route.islamic39.model
+package com.route.islami
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

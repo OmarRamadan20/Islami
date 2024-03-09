@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.route.islamic39"
+    namespace = "com.route.islami"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.route.islamic39"
+        applicationId = "com.route.islami"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

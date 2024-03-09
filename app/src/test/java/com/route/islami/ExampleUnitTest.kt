@@ -1,4 +1,4 @@
-package com.route.islamic39
+package com.route.islami
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

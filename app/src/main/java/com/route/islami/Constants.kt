@@ -1,6 +1,5 @@
-package com.route.islamic39.ui
+package com.route.islami
 
-// Singleton Pattern
 object Constants {
     val Hadeth_EXTRA = "Hadeth"
     const val ChapterTitle = "title"

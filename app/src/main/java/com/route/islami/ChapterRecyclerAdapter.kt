@@ -1,9 +1,9 @@
-package com.route.islamic39.ui.home.quran
+package com.route.islami
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.route.islamic39.databinding.ItemChapterTitleBinding
+import com.route.islami.databinding.ItemChapterTitleBinding
 
 class ChapterRecyclerAdapter(private val chaptersList: List<String>) :
     RecyclerView.Adapter<ChapterRecyclerAdapter.ViewHolder>() {

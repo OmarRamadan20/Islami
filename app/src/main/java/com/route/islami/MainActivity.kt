@@ -1,14 +1,9 @@
-package com.route.islamic39.ui.home
+package com.route.islami
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import com.route.islamic39.R
-import com.route.islamic39.databinding.ActivityMainBinding
-import com.route.islamic39.ui.home.hadeth.HadethFragment
-import com.route.islamic39.ui.home.quran.QuranFragment
-import com.route.islamic39.ui.home.radio.RadioFragment
-import com.route.islamic39.ui.home.tasbeh.TasbehFragment
+import com.route.islami.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     lateinit var viewBinding: ActivityMainBinding
